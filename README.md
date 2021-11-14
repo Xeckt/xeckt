@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomic-molecule&label=Profile%20views&color=0e75b6&style=flat" alt="atomic-molecule" /> </p>
 
-- I’m currently working & open for contributions on [Foxcord](https://github.com/Atomic-Molecule/foxcord/) which will have a [Golang](https://golang.org/) counterpart in the near future.
 - How to reach me **Discord: Zxi#0001**
 
 <h3 align="left">Languages and Tools:</h3>
