@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! Welcome to my GitHub profile!</h1>
-<h3 align="center">My name is Xan and I work as a Systems Administrator. However, programming is a big part of my passion and I try to extend that onto projects as much as possible!</h3>
+<h3 align="center">My name is Xan and I work as a Systems Administrator. However, programming is a big part of my passion and I try to display that for my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomic-molecule&label=Profile%20views&color=0e75b6&style=flat" alt="atomic-molecule" /> </p>
 
